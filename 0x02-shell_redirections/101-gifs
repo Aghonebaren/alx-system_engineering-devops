@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -1 -R -a *.gif |LC_ALL=C sort -f
+ls -1aR *.gif |LC_ALL=C sort -f
